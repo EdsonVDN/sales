@@ -1,0 +1,61 @@
+.MuiIconButton-edgeStart{
+
+    padding:0px!important;
+    margin-left:0px!important;
+  }
+  .MuiIconButton-edgeStart:hover{
+background-color:transparent!important;
+padding:0px!important;
+  }
+
+  .MuiIconButton-root:hover{
+    background-color: #a3a3a3!important;
+
+  }
+
+    /* Largura da barra de rolagem Geral*/
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Cor da barra de rolagem */
+::-webkit-scrollbar-thumb {
+  background-color: #004A77; /* Cor da sua marca ou preferência */
+  border-radius: 2px;
+}
+
+/* Cor da barra de rolagem ao passar o mouse */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #004A77; /* Cor mais escura ou de sua preferência */
+}
+
+/* Cor de fundo da trilha da barra de rolagem */
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.MuiBadge-anchorOriginTopRightRectangle{
+  right:-12px!important;
+}
+
+a:link{
+  color:rgb(48, 111, 194);
+}
+
+.MuiTableContainer-root{
+  border-radius:16px!important;
+}
+
+.MuiTypography-h6{
+  margin-bottom:0px!important;
+}
+
+.gradient-title{
+  background: linear-gradient(to right, #0adb30, #4e45da, #8d1cd9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+form{
+  padding:0px!important;
+}
